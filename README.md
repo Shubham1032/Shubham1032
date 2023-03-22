@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Java,css,Html
+- 🔭 I’m currently working on my own e-commerce project
+- 🌱 I’m currently learning ..MongoDB
+- 👯 I’m looking to collaborate on interesting projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about ...JavaScript,css,Html,React JS, nodejs
 - 📫 How to reach me: sharmashubham19298@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "Wine is constant proof that God loves us and loves to see us happy."
